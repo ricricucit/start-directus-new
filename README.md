@@ -1,4 +1,4 @@
-# Directus Restack repository
+# MAIN Directus Restack repository
 
 This is the default Directus repository to get you started for generating preview environments from a custom Directus image with Restack github application.
 
